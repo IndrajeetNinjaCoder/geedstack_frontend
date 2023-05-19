@@ -53,14 +53,7 @@ const Home = () => {
 
 
                 <section className="home" id="home">
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
-                    <h1>THIS IS A NEW HEADING</h1>
+
                     <div className="deco-shape shape-1">
                         <img src={shape_1} alt="art shape" width="70" />
                     </div>
