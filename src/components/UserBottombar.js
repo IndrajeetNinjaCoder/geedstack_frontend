@@ -15,7 +15,7 @@ const UserBottombar = () => {
     // const location = useLocation();
 
     const handleLogout = () => {
-        console.log("Logout");
+        localStorage.setItem("geekstacks-user", "");
         navigate('/');
     }
 
